@@ -24,9 +24,8 @@ Hi there 👋 I'm Abhiraj — a cybersecurity engineer with 5 years of hands-on 
 ### 📂 Featured Projects
 - [`cloudguard-vuln-comparator`](https://github.com/Cyberta1k/cloudguard-vuln-comparator) – Compare monthly vulnerability reports via Python  
 - [`kql-hunting-sentinel`](https://github.com/Cyberta1k/kql-hunting-sentinel) – Hunting queries for Azure Sentinel  
-- [`sigma-threat-rules`](https://github.com/Cyberta1k/sigma-threat-rules) – Custom Sigma detection rules  
+- [`sigma-mitre-detections`](https://github.com/Cyberta1k/sigma-mitre-detections) – Custom Sigma detection rules  
 - [`osint-ioc-automation`](https://github.com/Cyberta1k/osint-ioc-automation) – Automate IOC parsing from OSINT feeds  
-- [`wazuh-detection-rules`](https://github.com/Cyberta1k/wazuh-detection-rules) – MITRE-aligned Wazuh YAML rules
 
 ---
 
