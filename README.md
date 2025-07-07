@@ -6,8 +6,8 @@
 
 ---
 
-Hi there 👋 I'm Abhiraj — a cybersecurity engineer with 5 years of hands-on experience in SOC operations, threat detection, and incident response. My work focuses on detecting real-world threats, building custom detections, and automating repetitive SOC workflows using Python.  
-💻 Currently, I’m part of the cybersecurity team at **Thales**, where I handle hybrid cloud defense, CVE analysis, vulnerability assessments, and alert triage across Microsoft Defender, Wazuh, and QRadar environments.
+Hi there!! I'm Abhiraj — a cybersecurity engineer with 5 years of hands-on experience in SOC operations, threat detection, and incident response. My work focuses on detecting real-world threats, building custom detections, and automating repetitive SOC workflows using Python.  
+Currently, I’m part of the cybersecurity team at **Thales**, where I handle hybrid cloud defense, CVE analysis, vulnerability assessments, and alert triage across Microsoft Defender, Wazuh, and QRadar environments.
 
 ---
 
