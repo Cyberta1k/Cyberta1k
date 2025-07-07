@@ -25,7 +25,7 @@ Currently, I’m part of the cybersecurity team at **Thales**, where I handle hy
 - [`cloudguard-vuln-comparator`](https://github.com/Cyberta1k/cloudguard-vuln-comparator) – Compare monthly vulnerability reports via Python  
 - [`kql-hunting-sentinel`](https://github.com/Cyberta1k/kql-hunting-sentinel) – Hunting queries for Azure Sentinel  
 - [`sigma-mitre-detections`](https://github.com/Cyberta1k/sigma-mitre-detections) – Custom Sigma detection rules  
-- [`osint-ioc-automation`](https://github.com/Cyberta1k/osint-ioc-automation) – Automate IOC parsing from OSINT feeds  
+- [`virustotal-ioc-checker`](https://github.com/Cyberta1k/virustotal-ioc-checker) – Automate IOC check from OSINT Virustotal  
 
 ---
 
