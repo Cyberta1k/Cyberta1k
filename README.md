@@ -22,7 +22,7 @@ Currently, I’m part of the cybersecurity team at **Thales**, where I handle hy
 ---
 
 ### 📂 Featured Projects 
-- [`kql-hunting-sentinel`](https://github.com/Cyberta1k/kql-hunting-sentinel) – Hunting queries for Azure Sentinel  
+- [`cookie-hijack-demo`](https://github.com/Cyberta1k/cookie-hijack-demo) – Chrome Cookie Hijacking: MFA Bypass  
 - [`sigma-mitre-detections`](https://github.com/Cyberta1k/sigma-mitre-detections) – Custom Sigma detection rules  
 - [`virustotal-ioc-checker`](https://github.com/Cyberta1k/virustotal-ioc-checker) – Automate IOC check from OSINT Virustotal  
 - [`cloudtrail-to-wazuh`](https://github.com/Cyberta1k/cloudtrail-to-wazuh) – AWS CloudTrail logs to Wazuh SIEM
